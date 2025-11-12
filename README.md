@@ -1,4 +1,4 @@
-# 🏦 Banking Data Analytics Project
+# 🏦 Banking Data Analytics
 
 ---
 
